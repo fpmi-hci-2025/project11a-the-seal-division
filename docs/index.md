@@ -12,3 +12,4 @@
 - [(Лаб 1) Задачи и роли пользователей](Lab1_role_task.md)
 - [(Лаб 1) Объектная модель](Lab1_object_model.md)
 - [(Лаб 1) Диаграмма бизнесс-процессов](Lab1_buisiness_diagram.md)
+- [(Лаб 1) Стратегия дизайна](Lab1_design_strategy.md)
