@@ -6,6 +6,7 @@
 - [(Лаб 1) Опрос и его результаты](Lab1_survey.md)
 - [(Лаб 1) Профили пользователей](Lab1_user_profiles.md)
 - [(Лаб 1) Профили задач](Lab1_task_groups.md)
+- [(Лаб 1) Профили среды](Lab1_environment_profile.md)
 - [(Лаб 1) Профили групп](Lab1_group_profiles.md)
 - [(Лаб 1) Персонажи](Lab1_characters.md)
 - [(Лаб 1) Контекстные сценарии](Lab1_context_scenarios.md)
