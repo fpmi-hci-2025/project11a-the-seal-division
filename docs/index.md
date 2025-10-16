@@ -38,4 +38,10 @@
 - [(Лаб 3) Спецификация системы с использованием метода Event Storming](lab3_event_storming.md)
 - [(Лаб 3) Спецификация системы с использованием метода Event Modeling](lab3_event_modeling.md)
 - [(Лаб 3) Архитектура системы с использованием метода C4 Model](lab3_C4_model.md)
+- [(Лаб 4) Модель требований](lab4_user_story.md)
+- [(Лаб 4) Логическая схема базы данных](lab4_DB_logical.md)
+- [(Лаб 4) Физическая схема базы данных](lab4_DB_physical.md)
+- [(Лаб 4) Маршруты API](lab4_API_routes.md)
+- [(Лаб 4) Эндпоинты API](lab4_API_endpoints.md)
+- [(Лаб 4) Примеры тестирования API](lab4_API_testing.md)
 
