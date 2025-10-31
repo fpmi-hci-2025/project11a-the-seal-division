@@ -44,4 +44,4 @@
 - [(Лаб 4) Маршруты API](lab4_API_routes.md)
 - [(Лаб 4) Эндпоинты API](lab4_API_endpoints.md)
 - [(Лаб 4) Примеры тестирования API](lab4_API_testing.md)
-
+- [(Лаб 5) Руководство по дизайну](lab5_design_guide.md)
