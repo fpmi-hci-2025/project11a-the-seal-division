@@ -45,3 +45,7 @@
 - [(Лаб 4) Эндпоинты API](lab4_API_endpoints.md)
 - [(Лаб 4) Примеры тестирования API](lab4_API_testing.md)
 - [(Лаб 5) Руководство по дизайну](lab5_design_guide.md)
+- [(Лаб 6) Показатели производительности](lab6_performance_metrics.md)
+- [(Лаб 6) Показатели на основе аспектов Usability](lab6_usability_aspects.md)
+- [(Лаб 6) Тестирование экранов](lab6_survey.md)
+- [(Лаб 6) Анализ интерфейса по модели GOMS](lab6_goms.md)
