@@ -1,0 +1,8 @@
+# Опрос (тестирование экранов)
+![1](https://github.com/user-attachments/assets/b28a9200-f34a-47e4-9b3e-e091c38bcec7)
+![2](https://github.com/user-attachments/assets/630622fa-5bec-4813-90a7-77ba8ef8bb8b)
+![3](https://github.com/user-attachments/assets/3bbc021e-66cf-47a5-a801-e1d7886e2fc7)
+![4](https://github.com/user-attachments/assets/03d0da32-f5b2-4e28-9dcd-2127b8e3d77f)
+![5](https://github.com/user-attachments/assets/3256c346-2f60-49b7-8378-ff17c2f6a4a0)
+![6](https://github.com/user-attachments/assets/3dc695f5-8314-49b5-bbed-eea76a5bd278)
+![7](https://github.com/user-attachments/assets/c20bedad-17e6-45df-8394-40df3543edc9)
