@@ -15,7 +15,7 @@
 -   [**project11a-backend-the-seal-division**](https://github.com/fpmi-hci-2025/project11a-backend-the-seal-division) — Backend-сервис на Go.
 -   [**project11a-web-the-seal-division**](https://github.com/fpmi-hci-2025/project11a-web-the-seal-division) — Веб-клиент на React.
 -   [**project11a-mobile-the-seal-division**](https://github.com/fpmi-hci-2025/project11a-mobile-the-seal-division) — Мобильное приложение для Android.
--   [**project11a-docs-the-seal-division**](https://github.com/fpmi-hci-2025/project11a-docs-the-seal-division) — Этот репозиторий с документацией.
+-   [**project11a-docs-the-seal-division**](https://github.com/fpmi-hci-2025/project11a-the-seal-division) — Этот репозиторий с документацией.
 
 ## 👥 Участники команды
 
